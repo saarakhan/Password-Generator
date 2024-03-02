@@ -6,7 +6,8 @@ My project is a password generator that creates passwords based on user preferen
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
-
+##Live Link
+-[livelink](https://saarakhan.github.io/Password-Generator/)
 ## Lessons Learned
 
 This project primarily focuses on advancing JavaScript proficiency while concurrently refining HTML and CSS skills. By building practical applications, I aim to strengthen core JavaScript concepts and improve code structure, cleanliness, and organization.
