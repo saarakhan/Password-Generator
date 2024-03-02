@@ -6,7 +6,7 @@ My project is a password generator that creates passwords based on user preferen
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
-##Live Link
+## Live Link
 -[livelink](https://saarakhan.github.io/Password-Generator/)
 ## Lessons Learned
 
